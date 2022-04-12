@@ -1,5 +1,5 @@
 # Project Name
-> BoomBikes case study
+> Boom bikes demand prediction
 
 
 ## Table of Contents
